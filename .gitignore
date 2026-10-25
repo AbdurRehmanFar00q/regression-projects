@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data (rebuilt by running the collection scripts)
+01-weather-forecast/data/raw/
